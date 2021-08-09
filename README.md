@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/chrisjay358/summary-card.git)
-- Live Site URL: (view-card.netlify.app)
+- Live Site URL: (https://summary-card.netlify.app/)
 
 ## My process
 
